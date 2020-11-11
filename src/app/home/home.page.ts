@@ -27,7 +27,7 @@ export class HomePage {
   	// if else same as in other language 
   	// remember need to use this for global variable
   	if (this.count == 0){
-  		this.message = "Number cannot be less than 0"
+  		this.message = "Nombor tidak boleh leboih kecil dari 0"
 
   	}
   	else {
